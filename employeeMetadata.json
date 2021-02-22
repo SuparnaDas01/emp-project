@@ -1,0 +1,17 @@
+[{
+  "EMP_ID":78823,
+  "EMP_NAME":"Jacob",
+  "SALARY":86000,
+  "EMAIL":"jck@email.com",
+  "EMP_PHONE":"8012237910",
+  "EMP_ADDRESS":"235 E Street"
+},
+{
+  "EMP_ID":78825,
+  "EMP_NAME":"Jailen",
+  "SALARY":88000,
+  "EMAIL":"jck22@email.com",
+  "EMP_PHONE":"8012237966",
+  "EMP_ADDRESS":"238 E Street"
+
+}]
